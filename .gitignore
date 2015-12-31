@@ -10,7 +10,7 @@ test*.py
 
 # Distribution / packaging
 .Python
-plotResults/
+#plotResults/
 GitHub/
 env/
 build/
